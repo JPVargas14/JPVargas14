@@ -1,4 +1,4 @@
-### Hi, I'm JP (Juan Pablo)
+### :wave Hi, I'm JP (Juan Pablo)
 - 📖 I'm currently a 3rd-year Computer Science student at the University of Cincinnati
 - 🛠️ On co-op semesters, I work as an Embedded Software Developer @geappliances
 - 🔭 I’m currently working on an open-source F1 project

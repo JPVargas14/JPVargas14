@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm JP (Juan Pablo)
+- 📖 I'm currently a 3rd-year Computer Science student at the University of Cincinnati
+- 🛠️ On co-op semesters, I work as an Embedded Software Developer @geappliances
+- 🔭 I’m currently working on an open-source F1 project
+- 🌱 I’m currently learning Design and Analysis of Algorithms, Databease Design/Development, and Software Engineering
+- 💬 Ask me about anything F1-related
+- 📫 How to reach me: email- vargasjp@mail.uc.edu
+- 😄 Pronouns: he/him/his
+- 🇦🇹 Fun fact: I studied abroad in Vienna, Austria for 2 summers!
+
 
 <!--
 **JPVargas14/JPVargas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

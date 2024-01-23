@@ -6,7 +6,7 @@
 - 💬 Ask me about anything F1-related
 - 📫 How to reach me: email- vargasjp@mail.uc.edu
 - 😄 Pronouns: he/him/his
-- 🇦🇹 Fun fact: I studied abroad in Vienna, Austria for 2 summers!
+- 🗺️ Fun fact: I love traveling! I have traveled to 15+ countries, and have had the opportunity to study abroad in Vienna, Austria for 2 summers!
 
 
 <!--

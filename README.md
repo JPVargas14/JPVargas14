@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm JP (Juan Pablo)
-- 📖 I'm currently a 3rd-year Computer Science student at the University of Cincinnati
-- 🛠️ On co-op semesters, I work as an Embedded Software Developer @geappliances
+- 📖 I'm currently a 5th-year Computer Science student at the University of Cincinnati
+- 🛠️ This summer, I am an intern at P&G working in A&I on the Digital Accelerator Media team
 - 🔭 I’m currently working on an open-source F1 project
-- 🌱 I’m currently learning Design and Analysis of Algorithms, Databease Design/Development, and Software Engineering
+- 🌱 I’m currently learning Data Anlysis techniques
 - 💬 Ask me about anything F1-related
 - 📫 How to reach me: email- vargasjp@mail.uc.edu
 - 😄 Pronouns: he/him/his
